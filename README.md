@@ -34,9 +34,6 @@ The project is organized as follows:
 *   `notebooks/`: Jupyter notebooks for experimentation and analysis.
 *   `scripts/`: Standalone utility scripts.
 *   `data/`: Data files like csvs and jsons.
-*   `thumbnails/`: Generated video thumbnails.
-*   `breakpoints/`: Video breakpoint information.
-*   `katka_scenes/`: Scene information for specific videos.
 
 ## Getting Started
 
